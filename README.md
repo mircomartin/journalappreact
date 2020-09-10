@@ -1,3 +1,8 @@
+Les dejo URL del proyecto:
+
+https://app.netlify.com/sites/reduxjournal
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
